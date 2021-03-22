@@ -1,7 +1,7 @@
 {
-    "name": "dyte Sample App",
+    "name": "BHMGHM Online Class",
     "repository": "https://github.com/dyte-in/web-integration-example",
-    "keywords": ["dyte", "express", "node"],
+    "keywords": ["BHMGHM", "express", "Online", "Class"],
     "env": {
         "DYTE_ORG_ID": {
             "description": "Organization ID for dyte."
